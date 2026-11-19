@@ -1,6 +1,6 @@
 # Codebook
 
-Read the method, setup, and results sections of each paper, not only the abstract.
+Read the abstract, method, setup, and results sections of each paper.
 Where a field allows several codes, join them with `+` (for example `R+X`).
 Write `NR` when the paper does not report it.
 
