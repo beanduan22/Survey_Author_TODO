@@ -1,0 +1,49 @@
+rid	citation_key	title	link	class	verdict(ok/fix)	corrected_value	checked_by	date
+E:yefet2020adversarial#1	yefet2020adversarial	Adversarial Examples for Models of Code	https://doi.org/10.1145/3428230	rename_insert				
+E:srikant2021generating#1	srikant2021generating	Generating Adversarial Computer Programs using Optimized Obfuscations	https://openreview.net/forum?id=PH5PH9ZO_4	structural				
+E:zhang2022carrot#1	zhang2022carrot	Towards Robustness of Deep Program Processing Models---Detection, Estimation, and Enhancement	https://doi.org/10.1145/3511887	rename_insert				
+E:zhou2022accent#1	zhou2022accent	Adversarial Robustness of Deep Code Comment Generation	https://doi.org/10.1145/3501256	rename_insert				
+E:yang2022natural#1	yang2022natural	Natural Attack for Pre-trained Models of Code	https://doi.org/10.1145/3510003.3510146	rename_insert				
+E:na2023dip#1	na2023dip	DIP: Dead code Insertion based Black-box Attack for Programming Language Model	https://doi.org/10.18653/v1/2023.acl-long.430	rename_insert				
+E:zhang2023rnns#1	zhang2023rnns	A Black-Box Attack on Code Models via Representation Nearest Neighbor Search	https://doi.org/10.18653/v1/2023.findings-emnlp.649	rename_insert				
+E:gu2023beamattack#1	gu2023beamattack	An Extensive Study on Adversarial Attack against Pre-trained Models of Code	https://doi.org/10.1145/3611643.3616356	rename_insert				
+E:moaa2024#1	moaa2024	Evolutionary Multi-Objective Optimization for Contextual Adversarial Example Generation	https://doi.org/10.1145/3660808	rename_insert				
+E:codebertattack2024#1	codebertattack2024	CodeBERT-Attack: Adversarial Attack Against Source Code Deep Learning Models via Pre-trained Model	https://doi.org/10.1002/smr.2571	rename_insert				
+E:liu2024eatvul#1	liu2024eatvul	EaTVul: ChatGPT-based Evasion Attack Against Software Vulnerability Detection	https://scholar.google.com/scholar?q=EaTVul%3A%20ChatGPT-based%20Evasion%20Attack%20Against%20Software%20Vulnerability%20Detection	rename_insert				
+E:huang2025iterative#1	huang2025iterative	Iterative Generation of Adversarial Example for Deep Code Models	https://doi.org/10.1109/ICSE55347.2025.00086	rename_insert				
+N07345#1	sun2026cost	Cost-Effective Adversarial Attacks Against Code LLM With Model Attention	https://doi.org/10.1109/tse.2026.3663143	rename_insert				
+N02271#1	yang2024exploiting	Exploiting the Adversarial Example Vulnerability of Transfer Learning of Source Code	https://doi.org/10.1109/tifs.2024.3402153	rename_insert				
+N01262#1	zeng2022extensive	An extensive study on pre-trained models for program understanding and generation	https://doi.org/10.1145/3533767.3534390	rename_insert				
+N04259#1	wen2025variable	Variable Renaming-Based Adversarial Test Generation for Code Model: Benchmark and Enhancement	https://doi.org/10.1145/3723353	rename_insert				
+N08835#1	chen2026securing	Securing Code Understanding: Detecting Natural Backdoor Vulnerability in Code Language Models	https://scholar.google.com/scholar?q=Securing%20Code%20Understanding%3A%20Detecting%20Natural%20Backdoor%20Vulnerability%20in%20Code%20Language%20Models	rename_insert				
+N10566#1	li2025make	Make a Feint to the East While Attacking in the West: Blinding LLM-Based Code Auditors with Flashboom Attacks	https://doi.org/10.1109/sp61157.2025.00125	rename_insert				
+S006#1	ding2024adversarial	Adversarial Attack and Robustness Improvement on Code Summarization	https://doi.org/10.1145/3661167.3661173	rename_insert				
+S031#1	boke2026digital	“Digital Camouflage”: The LLVM challenge in LLM-based malware detection	https://doi.org/10.1016/j.jss.2025.112646	compiler_pass				
+S055#1	damasio2023game	A Game-Based Framework to Compare Program Classifiers and Evaders	https://doi.org/10.1145/3579990.3580012	compiler_pass				
+E:bielik2020adversarial#1	bielik2020adversarial	Adversarial Robustness for Code	https://scholar.google.com/scholar?q=Adversarial%20Robustness%20for%20Code	structural				
+E:vahdatpour2021search#1	vahdatpour2021search	A Search-Based Testing Framework for Deep Neural Networks of Source Code Embedding	https://doi.org/10.1109/icst49551.2021.00016	structural				
+E:ramakrishnan2022semantic#1	ramakrishnan2022semantic	Semantic Robustness of Models of Source Code	https://doi.org/10.1109/saner53432.2022.00070	structural				
+E:li2022ropgen#1	li2022ropgen	RoPGen: Towards Robust Code Authorship Attribution via Automatic Coding Style Transformation	https://doi.org/10.1145/3510003.3510181	structural				
+E:tian2023coda#1	tian2023coda	Code Difference Guided Adversarial Example Generation for Deep Code Models	https://doi.org/10.1109/ase56229.2023.00149	structural				
+E:spatialgreedy2024#1	spatialgreedy2024	Adversarial Attacks Against Binary Similarity Systems	https://doi.org/10.1109/access.2024.3488204	structural				
+N01639#1	zhang2023challenging	Challenging Machine Learning-Based Clone Detectors via Semantic-Preserving Code Transformations	https://doi.org/10.1109/tse.2023.3240118	structural				
+N06037#1	jiang2026shield	Shield Broken: Black-Box Adversarial Attacks on LLM-Based Vulnerability Detectors	https://doi.org/10.1109/tse.2025.3638998	structural				
+N04780#1	du2025statement	Statement-Level Adversarial Attack on Vulnerability Detection Models via Out-of-Distribution Features	https://doi.org/10.1145/3729403	structural				
+N03217#1	li2024aacegen	AACEGEN: Attention Guided Adversarial Code Example Generation for Deep Code Models	https://doi.org/10.1145/3691620.3695500	structural				
+N04863#1	capozzi2025lack	On the Lack of Robustness of Binary Function Similarity Systems	https://doi.org/10.1109/eurosp63326.2025.00060	structural				
+N02566#1	liu2024alanca	ALANCA: Active Learning Guided Adversarial Attacks for Code Comprehension on Diverse Pre-trained and Large Language Models	https://doi.org/10.1109/saner60148.2024.00067	structural				
+N08581#1	wang2026ttsemader	<tt>SemAder</tt> : Evading LLM-Based Binary Code Analysis via Structure-Semantics Joint Induction	https://doi.org/10.1145/3818619	structural				
+N04045#1	li2025understanding	Understanding the Robustness of Transformer-Based Code Intelligence via Code Transformation: Challenges and Opportunities	https://doi.org/10.1109/tse.2024.3524461	structural				
+N07325#1	uhm2026fool	Fool Me If You Can: On the Robustness of Binary Code Similarity Detection Models against Semantics-preserving Transformations	https://scholar.google.com/scholar?q=Fool%20Me%20If%20You%20Can%3A%20On%20the%20Robustness%20of%20Binary%20Code%20Similarity%20Detection%20Models%20against%20Semantics-preserving%20Transformations	structural				
+N01131#1	chen2022generating	Generating Adversarial Source Programs Using Important Tokens-based Structural Transformations	https://doi.org/10.1109/iceccs54210.2022.00029	structural				
+S011#1	pan2024assessing	Assessing AI Detectors in Identifying AI-Generated Code: Implications for Education	https://doi.org/10.1145/3639474.3640068	structural				
+S047#1	pirouzkhah2026consistent	Consistent or Sensitive? Automated Code Revision Tools Against Semantics-Preserving Perturbations	https://doi.org/10.1145/3793302.3793363	structural				
+S049#1	sauger2026attacking	Attacking the First-Principle: A Black-Box Query-Free Targeted Mimicry Attack on Binary Function Classifiers	https://doi.org/10.1109/eurosp68448.2026.00081	structural				
+E:wang2023recode#1	wang2023recode	ReCode: Robustness Evaluation of Code Generation Models	https://doi.org/10.18653/v1/2023.acl-long.773	prompt_nl				
+E:jiang2024advpro#1	jiang2024advpro	Attribution-guided Adversarial Code Prompt Generation for Code Completion Models	https://doi.org/10.1145/3691620.3695517	prompt_nl				
+E:jenko2025insec#1	jenko2025insec	Black-Box Adversarial Attacks on LLM-Based Code Completion	https://scholar.google.com/scholar?q=Black-Box%20Adversarial%20Attacks%20on%20LLM-Based%20Code%20Completion	prompt_nl				
+N08004#1	sarker2026assessing	Assessing, Exploiting, and Mitigating Syntactic Robustness Failures in LLM-Based Code Generation	https://doi.org/10.1145/3793655.3793727	prompt_nl				
+N01635#1	chang2023drspider	Dr.Spider: A Diagnostic Evaluation Benchmark towards Text-to-SQL Robustness	https://arxiv.org/abs/2301.08881	prompt_nl				
+N05123#1	liu2025adversarial	Adversarial attack classification and robustness testing for large language models for code	https://doi.org/10.1007/s10664-025-10693-3	prompt_nl				
+N08507#1	rabbi2026multi	A multi-language perspective on the robustness of LLM code generation	https://doi.org/10.1007/s10664-026-10882-8	prompt_nl				
+S012#1	pi2022robustness	Towards Robustness of Text-to-SQL Models Against Natural and Realistic Adversarial Table Perturbation	https://doi.org/10.18653/v1/2022.acl-long.142	prompt_nl				
